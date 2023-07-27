@@ -10,6 +10,12 @@ _Coded by: [Sasmitha Ashinsana](https://github.com/sasmeee)_
 npm i @sasmeee/ip-locator
 ```
 
+or
+
+```
+yarn add @sasmeee/ip-locator
+```
+
 ## Usage
 
 ```js
