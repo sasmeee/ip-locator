@@ -18,14 +18,28 @@ yarn add @sasmeee/ip-locator
 
 ## Usage
 
-```js
-const getGeoData = require("@sasmeee/ip-locator");
-```
+You can use this IP Locator package as an **independent function in your JavaScript code** and also **provides a CLI command** to fetch geolocation data for a specific IP address.
 
 ## Note
 
 > **Note:** You should use a valid IP address for doing that.
 
+### As a CLI Command
+
+```shell
+# 1. Install iplocator globally using yarn/npm
+npm install --global @sasmeee/ip-locator # alternatively, yarn global add @sasmeee/ip-locator
+
+# 2. Get an IP address.
+
+# 3. Run deobfuscator
+getip geodata <ip_address>
+```
+
+### As a Function
+```js
+const getGeoData = require("@sasmeee/ip-locator");
+```
 
 ## Methods
 
