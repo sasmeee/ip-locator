@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const yargs = require("yargs");
-const { getGeoData } = require("../index");
+const getGeoData = require("../index");
 
 yargs
     .scriptName("getip")
