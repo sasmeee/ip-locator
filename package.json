@@ -1,0 +1,33 @@
+{
+  "name": "@sasmeee/ip-locator",
+  "version": "1.0.0",
+  "description": "IP-Locator is a versatile package that allows you to easily retrieve valuable information based on IP Addresses. With IP-Locator, you can effortlessly access user location details, country-specific data, and even obtain real-time weather updates, all in a single package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasmeee/ip-locator.git"
+  },
+  "keywords": [
+    "IP address",
+    "location",
+    "geodata",
+    "country",
+    "weather",
+    "coordinates",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Sasmitha Ashinsana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasmeee/ip-locator/issues"
+  },
+  "homepage": "https://github.com/sasmeee/ip-locator#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
