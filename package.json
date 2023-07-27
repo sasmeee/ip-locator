@@ -1,6 +1,6 @@
 {
   "name": "@sasmeee/ip-locator",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "IP-Locator is a versatile package that allows you to easily retrieve valuable information based on IP Addresses. With IP-Locator, you can effortlessly access user location details, country-specific data, and even obtain real-time weather updates, all in a single package.",
   "main": "index.js",
   "scripts": {
